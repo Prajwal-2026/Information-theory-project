@@ -1,2 +1,3 @@
 # Information-theory-project
-Information theory project descreption
+ROI based image compression using Huffman coding and image compression
+
